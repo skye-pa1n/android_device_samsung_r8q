@@ -33,9 +33,9 @@ TARGET_SCREEN_WIDTH := 1080
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := lineage_r8q
 PRODUCT_DEVICE := r8q
-PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-G780G
-PRODUCT_MANUFACTURER := samsung
+PRODUCT_BRAND := google
+PRODUCT_MODEL := GZC4K
+PRODUCT_MANUFACTURER := google
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 ## We are doing Gapped builds

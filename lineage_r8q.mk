@@ -31,10 +31,10 @@ TARGET_SCREEN_HEIGHT := 2400
 TARGET_SCREEN_WIDTH := 1080
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_NAME := lineage_r8q
+PRODUCT_NAME := komodo
 PRODUCT_DEVICE := r8q
 PRODUCT_BRAND := google
-PRODUCT_MODEL := GZC4K
+PRODUCT_MODEL := Pixel 9 Pro XL
 PRODUCT_MANUFACTURER := google
 PRODUCT_GMS_CLIENTID_BASE := android-samsung-ss
 
